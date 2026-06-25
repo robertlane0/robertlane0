@@ -44,5 +44,6 @@ A mix of:
 ## 🤝 Let's connect
 
 If you find something interesting, have suggestions, or just want to talk about programming, AI, or cool projects, feel free to reach out.
+My email address is [robertlane0@protonmail.com](mailto:robertlane0@protonmail.com).
 
 Happy coding! 🎉
